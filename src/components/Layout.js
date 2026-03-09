@@ -17,7 +17,7 @@ const Layout = () => {
     <div className="layout">
       <aside className="sidebar">
         <div className="sidebar-header">
-          <h2>POS System</h2>
+          <h2>Abdullah Mir Technologies POS System</h2>
           <p>{user?.name} ({user?.role})</p>
         </div>
         <nav className="sidebar-nav">
